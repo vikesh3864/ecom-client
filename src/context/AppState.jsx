@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const AppState = (props) => {
   //  const url = "http://localhost:1000/api";
-   const url = "https://mern-ecommerce-7-rqmt.onrender.com/api";
+   const url = "https://ecom-api-t9tv.onrender.com/api";
   
  
 
